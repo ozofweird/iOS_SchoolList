@@ -1,0 +1,6 @@
+framework module Pods_SchoolList {
+  umbrella header "Pods-SchoolList-umbrella.h"
+
+  export *
+  module * { export * }
+}
